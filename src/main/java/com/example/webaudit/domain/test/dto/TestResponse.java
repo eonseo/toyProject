@@ -1,6 +1,6 @@
 package com.example.webaudit.domain.test.dto;
 
-import com.example.webaudit.domain.test.entity.TestEntity;
+import com.example.toyProject.entity.TestEntity;
 import lombok.Builder;
 import lombok.Getter;
 

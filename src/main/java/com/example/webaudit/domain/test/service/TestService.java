@@ -1,6 +1,6 @@
 package com.example.webaudit.domain.test.service;
 
-import com.example.webaudit.domain.test.entity.TestEntity;
+import com.example.toyProject.entity.TestEntity;
 import com.example.webaudit.domain.test.repository.TestRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

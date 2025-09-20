@@ -2,7 +2,7 @@ package com.example.webaudit.domain.test.controller;
 
 import com.example.webaudit.domain.test.dto.CreateTestRequest;
 import com.example.webaudit.domain.test.dto.TestResponse;
-import com.example.webaudit.domain.test.entity.TestEntity;
+import com.example.toyProject.entity.TestEntity;
 import com.example.webaudit.domain.test.service.TestService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
